@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Madhav Mahajan Assignment 1</title>
+</head>
+<body>
+    <p><h1>&lt;Madhav Mahajan &gt;:)</h6></p>
+    <p><h6>Contat</h6></p>
+    <p>9876543210</p>
+    <p><h5>Email</h5></p>
+    <p>12345@gmail.com</p>
+    <p><h6>Address</h6></p>
+    <p>India</p>
+    <p><h3>Skills</h3></p>
+    <p>HTML, Python.</p>
+    <p><h3>Education</h3></p>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+    <p><h2>Activity</h2></p>
+    <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+    <p><h3>Career goals</h3></p>
+    <p>Computer engineer</p>
+    <p><h4>Family</h4></p>
+    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+</body>
+<body>
+    
+</body>
+</html>
